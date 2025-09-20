@@ -1,28 +1,28 @@
-# 👋 Hola, soy Omar Fernando Granados Parra
+# Omar Fernando Granados Parra
 
-🧑‍💻 **Técnico en Desarrollo de Software**  
+**Técnico en Desarrollo de Software**  
 Con conocimientos en PHP, JavaScript, Python, HTML, CSS, SQL y MongoDB.  
-Experiencia inicial en **Godot Engine**.  
+Experiencia inicial en Godot Engine.  
 Proactivo, adaptable, aprendizaje rápido y habilidades en comunicación y trabajo en equipo.  
-Interesado en el desarrollo de **aplicaciones interactivas y videojuegos**.
+Interesado en el desarrollo de aplicaciones interactivas y videojuegos.
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 🗂️ Gestor de Enfoques de Estudio
+### Gestor de Enfoques de Estudio
 Aplicación que permite a los usuarios registrarse en diferentes enfoques de estudio y a los administradores gestionar los datos de la plataforma.  
 **Tecnologías:** Python  
-🔗 [Ver Proyecto](#)  
+[Ver Proyecto](#)  
 
-### 📱 Explorador de Recetas
+### Explorador de Recetas
 Aplicación web para buscar recetas del mundo por país o ingrediente.  
 **Tecnologías:** JavaScript, HTML, CSS  
-🔗 [Ver Proyecto](#)  
+[Ver Proyecto](#)  
 
 ---
 
-## 🧠 Habilidades Técnicas
+## Habilidades Técnicas
 
 | Lenguajes | Bases de Datos | Herramientas |
 |-----------|----------------|-------------|
@@ -33,14 +33,13 @@ Aplicación web para buscar recetas del mundo por país o ingrediente.
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 - **Email:** [ofergrapa@gmail.com](mailto:ofergrapa@gmail.com)  
-- **GitHub:** [github.com/Lazar2422](https://github.com/Lazar2422)  
-- **LinkedIn:** [linkedin.com](https://linkedin.com)  
+- **LinkedIn:** [linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/omar-fernando-granados-parra-506abb373/))  
 
 ---
 
-### 📊 Estadísticas GitHub
+### Estadísticas GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazar2422&show_icons=true&theme=dark)
