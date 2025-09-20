@@ -36,7 +36,7 @@ Aplicación web para buscar recetas del mundo por país o ingrediente.
 ## Contacto
 
 - **Email:** [ofergrapa@gmail.com](mailto:ofergrapa@gmail.com)  
-- **LinkedIn:** [linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/omar-fernando-granados-parra-506abb373/))  
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/omar-fernando-granados-parra-506abb373/)  
 
 ---
 
