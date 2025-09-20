@@ -26,8 +26,8 @@ Aplicación web para buscar recetas del mundo por país o ingrediente.
 
 | Lenguajes | Bases de Datos | Herramientas |
 |-----------|----------------|-------------|
-| Python    | SQL, MongoDB   | Git         |
-| JavaScript |               |             |
+| Python    |    MongoDB     | Git         |
+| JavaScript |     SQL       |             |
 | HTML, CSS |               |             |
 | PHP       |               |             |
 
