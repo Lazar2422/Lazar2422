@@ -18,7 +18,7 @@ Aplicación que permite a los usuarios registrarse en diferentes enfoques de est
 ### Explorador de Recetas
 Aplicación web para buscar recetas del mundo por país o ingrediente.  
 **Tecnologías:** JavaScript, HTML, CSS  
-[Ver Proyecto]([#](https://lazar2422.github.io/FoodApi/))  
+[Ver Proyecto](https://lazar2422.github.io/FoodApi/)  
 
 ---
 
