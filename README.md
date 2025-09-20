@@ -13,12 +13,12 @@ Interesado en el desarrollo de aplicaciones interactivas y videojuegos.
 ### Gestor de Enfoques de Estudio
 Aplicación que permite a los usuarios registrarse en diferentes enfoques de estudio y a los administradores gestionar los datos de la plataforma.  
 **Tecnologías:** Python  
-[Ver Proyecto](#)  
+[Ver Proyecto](https://github.com/Lazar2422/Simulador_institucion_educativa)  
 
 ### Explorador de Recetas
 Aplicación web para buscar recetas del mundo por país o ingrediente.  
 **Tecnologías:** JavaScript, HTML, CSS  
-[Ver Proyecto](#)  
+[Ver Proyecto]([#](https://lazar2422.github.io/FoodApi/))  
 
 ---
 
